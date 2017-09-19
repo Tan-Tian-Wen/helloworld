@@ -23,7 +23,7 @@ var gravity = 0.0;
 // }
 
 function setup() {
- cnv=createCanvas(200, 200);
+ cnv=createCanvas(400, 400);
  cnv.position(20,20)
 	loadImage("assets/3.jpg", function(img) {
 		img.loadPixels();
