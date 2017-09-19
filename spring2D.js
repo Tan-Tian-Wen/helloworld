@@ -39,7 +39,7 @@ function Spring2D(xpos, ypos, m, g, b_) {
 	this.show = function() {
 		noStroke();
 		this.change = map(sin(this.a), 0, 1, 1.8, 2.3); // using sin() function to make ellipse breathe
-		fill(0);
+		fill(255);
 		ellipse(this.loc.x, this.loc.y, this.radius/2 * this.change, this.radius/2 * this.change);
 	}
 
