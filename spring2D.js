@@ -40,7 +40,7 @@ function Spring2D(xpos, ypos, m, g, b_) {
 		noStroke();
 		this.change = map(sin(this.a), 0, 1, 1.8, 2.3); // using sin() function to make ellipse breathe
 		fill(0);
-		ellipse(this.loc.x, this.loc.y, this.radius/1.3 * this.change, this.radius/1.3 * this.change);
+		ellipse(this.loc.x, this.loc.y, this.radius/1.5 * this.change, this.radius/1.5 * this.change);
 	}
 
 	this.attraction = function() { // all the code below is applying attraction with Newton's formula
