@@ -23,7 +23,7 @@ var gravity = 0.0;
 // }
 
 function setup() {
- cnv=createCanvas(320, 320);
+ cnv=createCanvas(330, 330);
  cnv.position(20,20)
 	loadImage("assets/3.jpg", function(img) {
 		img.loadPixels();
@@ -53,7 +53,7 @@ function setup() {
 }
 
 function draw() {
-	background(31,50,83);
+	background(31,51,85);
 	if (s[49] != null) { // make sure the image is already loaded
 		for (var i = 1; i < w; i++) {
 			for (var j = 1; j < h; j++) {
