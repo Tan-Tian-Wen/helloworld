@@ -53,7 +53,7 @@ function setup() {
 }
 
 function draw() {
-	background(255);
+	background(#253758);
 	if (s[49] != null) { // make sure the image is already loaded
 		for (var i = 1; i < w; i++) {
 			for (var j = 1; j < h; j++) {
