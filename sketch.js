@@ -9,8 +9,8 @@
 
 var cnv;
 var img;
-var imgHeight= w = 50;
-var imgWidth = h = 50;
+var imgHeight= w = 20;
+var imgWidth = h = 20;
 var pic = [];
 var aa = 0;
 
