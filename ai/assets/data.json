@@ -1,0 +1,410 @@
+{
+	"data":[
+  {
+    "colorOut": "#50D4D7", 
+    "colorIn": "#50D4D7", 
+    "group": -1, 
+    "id": "AI", 
+    "size": 0
+  }, 
+  {
+    "colorOut": "#50D4D7", 
+    "colorIn": "#50D4D7", 
+    "group": 0, 
+    "id": "Application", 
+    "size": 3
+  }, 
+  {
+    "colorOut": "#22B1E9", 
+    "colorIn": "#22B1E9", 
+    "group": 0, 
+    "id": "Solution", 
+    "size": 3
+  }, 
+  {
+    "colorOut": "#5F95D8", 
+    "colorIn": "#5F95D8", 
+    "group": 0, 
+    "id": "Technology", 
+    "size": 3
+  }, 
+  {
+    "colorOut": "#897ECD", 
+    "colorIn": "#897ECD", 
+    "group": 0, 
+    "id": "算法", 
+    "size": 3
+  }, 
+  {
+    "colorOut": "#B87ECC", 
+    "colorIn": "#B87ECC", 
+    "group": 0, 
+    "id": "Foundation, 
+    "size": 3
+  }, 
+  {
+    "colorOut": "#151433", 
+    "colorIn": "#50D4D7", 
+    "group": 1, 
+    "id": "Health", 
+    "size": 2
+  }, 
+  {
+    "colorOut": "#151433", 
+    "colorIn": "#50D4D7", 
+    "group": 1, 
+    "id": "drawing", 
+    "size": 2
+  }, 
+  {
+    "colorOut": "#151433", 
+    "colorIn": "#50D4D7", 
+    "group": 1, 
+    "id": "Sale\n销售", 
+    "size": 2
+  }, 
+  {
+    "colorOut": "#151433", 
+    "colorIn": "#50D4D7", 
+    "group": 1, 
+    "id": "Travel", 
+    "size": 2
+  }, 
+  {
+    "colorOut": "#151433", 
+    "colorIn": "#50D4D7", 
+    "group": 1, 
+    "id": "Finance", 
+    "size": 2
+  }, 
+  {
+    "colorOut": "#151433", 
+    "colorIn": "#50D4D7", 
+    "group": 1, 
+    "id": "Safe", 
+    "size": 2
+  }, 
+  {
+    "colorOut": "#151433", 
+    "colorIn": "#50D4D7", 
+    "group": 1, 
+    "id": "Virtual Personal Assistants", 
+    "size": 2
+  }, 
+  {
+    "colorOut": "#151433", 
+    "colorIn": "#50D4D7", 
+    "group": 1, 
+    "id": "Law", 
+    "size": 2
+  }, 
+  {
+    "colorOut": "#151433", 
+    "colorIn": "#50D4D7", 
+    "group": 1, 
+    "id": "Search", 
+    "size": 2
+  }, 
+  {
+    "colorOut": "#151433", 
+    "colorIn": "#50D4D7", 
+    "group": 1, 
+    "id": "Agriculture", 
+    "size": 2
+  }, 
+  {
+    "colorOut": "#151433", 
+    "colorIn": "#50D4D7", 
+    "group": 1, 
+    "id": "HR", 
+    "size": 2
+  }, 
+  {
+    "colorOut": "#151433", 
+    "colorIn": "#50D4D7", 
+    "group": 1, 
+    "id": "Ad tech", 
+    "size": 2
+  }, 
+  {
+    "colorOut": "#151433", 
+    "colorIn": "#50D4D7", 
+    "group": 1, 
+    "id": "Writing", 
+    "size": 2
+  }, 
+  {
+    "colorOut": "#151433", 
+    "colorIn": "#50D4D7", 
+    "group": 1, 
+    "id": "Intelligent Robotics", 
+    "size": 2
+  }, 
+  {
+    "colorOut": "#151433", 
+    "colorIn": "#22B1E9", 
+    "group": 2, 
+    "id": "Business Service", 
+    "size": 2
+  }, 
+  {
+    "colorOut": "#151433", 
+    "colorIn": "#22B1E9", 
+    "group": 2, 
+    "id": "Predictive Analytics", 
+    "size": 2
+  }, 
+  {
+    "colorOut": "#151433", 
+    "colorIn": "#22B1E9", 
+    "group": 2, 
+    "id": "Data Analysis", 
+    "size": 2
+  }, 
+  {
+    "colorOut": "#151433", 
+    "colorIn": "#22B1E9", 
+    "group": 2, 
+    "id": "Text Analytics", 
+    "size": 2
+  }, 
+  {
+    "colorOut": "#151433", 
+    "colorIn": "#22B1E9", 
+    "group": 2, 
+    "id": "Text Mining", 
+    "size": 2
+  }, 
+  {
+    "colorOut": "#151433", 
+    "colorIn": "#22B1E9", 
+    "group": 2, 
+    "id": "Software Platform", 
+    "size": 2
+  }, 
+  {
+    "colorOut": "#151433", 
+    "colorIn": "#22B1E9", 
+    "group": 2, 
+    "id": "Voice Recognition", 
+    "size": 2
+  }, 
+  {
+    "colorOut": "#151433", 
+    "colorIn": "#22B1E9", 
+    "group": 2, 
+    "id": "Emotion Recognition", 
+    "size": 2
+  }, 
+  {
+    "colorOut": "#151433", 
+    "colorIn": "#22B1E9", 
+    "group": 2, 
+    "id": "Face Recognition", 
+    "size": 2
+  }, 
+  {
+    "colorOut": "#151433", 
+    "colorIn": "#22B1E9", 
+    "group": 2, 
+    "id": "Imagee Recognition", 
+    "size": 2
+  },
+  {
+    "colorOut": "#151433", 
+    "colorIn": "#22B1E9", 
+    "group": 2, 
+    "id": "Visual Search\n\u89c6\u89c9\u641c\u7d22", 
+    "size": 2
+  }, 
+  {
+    "colorOut": "#151433", 
+    "colorIn": "#22B1E9", 
+    "group": 2, 
+    "id": "Semantic Search\n\u8bed\u4e49\u641c\u7d22", 
+    "size": 2
+  }, 
+  {
+    "colorOut": "#151433", 
+    "colorIn": "#5F95D8", 
+    "group": 3, 
+    "id": "Deep Learning Research\n\u6df1\u5ea6\u5b66\u4e60", 
+    "size": 2
+  }, 
+  {
+    "colorOut": "#151433", 
+    "colorIn": "#5F95D8", 
+    "group": 3, 
+    "id": "Computer Vision Research\n\u673a\u5668\u89c6\u89c9\u7814\u7a76", 
+    "size": 2
+  }, 
+  {
+    "colorOut": "#151433", 
+    "colorIn": "#5F95D8", 
+    "group": 3, 
+    "id": "NLP Research\n\u6587\u672c\u7814\u7a76", 
+    "size": 2
+  }, 
+  {
+    "colorOut": "#151433", 
+    "colorIn": "#5F95D8", 
+    "group": 3, 
+    "id": "audio frequency Research\n\u97f3\u9891\u7814\u7a76", 
+    "size": 2
+  }, 
+  {
+    "colorOut": "#151433", 
+    "colorIn": "#897ECD", 
+    "group": 4, 
+    "id": "Deep Learning Framework\n\u6df1\u5ea6\u5b66\u4e60\u6846\u67b6", 
+    "size": 2
+  }, 
+  {
+    "colorOut": "#151433", 
+    "colorIn": "#897ECD", 
+    "group": 4, 
+    "id": "Deep Learning Model\n\u6df1\u5ea6\u5b66\u4e60\u6a21\u578b", 
+    "size": 2
+  }, 
+  {
+    "colorOut": "#151433", 
+    "colorIn": "#897ECD", 
+    "group": 4, 
+    "id": "Deep Learning Algorithm\n\u6df1\u5ea6\u5b66\u4e60\u7b97\u6cd5", 
+    "size": 2
+  }, 
+  {
+    "colorOut": "#151433", 
+    "colorIn": "#897ECD", 
+    "group": 4, 
+    "id": "API", 
+    "size": 2
+  }, 
+  {
+    "colorOut": "#151433", 
+    "colorIn": "#B87ECC", 
+    "group": 5, 
+    "id": "Context Awareness Computing\n\u4e0a\u4e0b\u6587\u8ba1\u7b97\u610f\u8bc6", 
+    "size": 2
+  }, 
+  {
+    "colorOut": "#151433", 
+    "colorIn": "#B87ECC", 
+    "group": 5, 
+    "id": "Internal Sensor\n\u5185\u90e8\u4f20\u611f\u5668", 
+    "size": 2
+  }, 
+  {
+    "colorOut": "#151433", 
+    "colorIn": "#B87ECC", 
+    "group": 5, 
+    "id": "External Sensor\n\u5916\u90e8\u4f20\u611f\u5668", 
+    "size": 2
+  }, 
+  {
+    "colorOut": "#151433", 
+    "colorIn": "#B87ECC", 
+    "group": 5, 
+    "id": "AI Chip\n\u82af\u7247", 
+    "size": 2
+  }, 
+  {
+    "colorOut": "#151433", 
+    "colorIn": "#B87ECC", 
+    "group": 5, 
+    "id": "Cloud Computing\n\u4e91\u8ba1\u7b97", 
+    "size": 2
+  }, 
+  {
+    "colorOut": "#2D8C8F", 
+    "colorIn": "#2D8C8F", 
+    "group": 6, 
+    "id": "OrCam", 
+    "size": 1
+  }, 
+  {
+    "colorOut": "#2D8C8F", 
+    "colorIn": "#2D8C8F", 
+    "group": 6, 
+    "id": "MedSnap", 
+    "size": 1
+  }, 
+  {
+    "colorOut": "#2D8C8F", 
+    "colorIn": "#2D8C8F", 
+    "group": 6, 
+    "id": "Poikos", 
+    "size": 1
+  }, 
+  {
+    "colorOut": "#2D8C8F", 
+    "colorIn": "#2D8C8F", 
+    "group": 6, 
+    "id": "CodeRyte", 
+    "size": 1
+  }, 
+  {
+    "colorOut": "#2D8C8F", 
+    "colorIn": "#2D8C8F", 
+    "group": 6, 
+    "id": "QPID Health", 
+    "size": 1
+  }, 
+  {
+    "colorOut": "#2D8C8F", 
+    "colorIn": "#2D8C8F", 
+    "group": 6, 
+    "id": "Hindsait", 
+    "size": 1
+  }, 
+  {
+    "colorOut": "#2D8C8F", 
+    "colorIn": "#2D8C8F", 
+    "group": 6, 
+    "id": "Cyft", 
+    "size": 1
+  }, 
+  {
+    "colorOut": "#2D8C8F", 
+    "colorIn": "#2D8C8F", 
+    "group": 6, 
+    "id": "Linguamatics", 
+    "size": 1
+  }, 
+  {
+    "colorOut": "#2D8C8F", 
+    "colorIn": "#2D8C8F", 
+    "group": 6, 
+    "id": "Idialogs", 
+    "size": 1
+  }, 
+  {
+    "colorOut": "#2D8C8F", 
+    "colorIn": "#2D8C8F", 
+    "group": 6, 
+    "id": "Health Navigator", 
+    "size": 1
+  }, 
+  {
+    "colorOut": "#2D8C8F", 
+    "colorIn": "#2D8C8F", 
+    "group": 6, 
+    "id": "Your.MD", 
+    "size": 1
+  }, 
+  {
+    "colorOut": "#2D8C8F", 
+    "colorIn": "#2D8C8F", 
+    "group": 6, 
+    "id": "Insilico Medicie", 
+    "size": 1
+  }, 
+  {
+    "colorOut": "#2D8C8F", 
+    "colorIn": "#2D8C8F", 
+    "group": 6, 
+    "id": "BERG Health", 
+    "size": 1
+  }
+]
+}
